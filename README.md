@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Why you can unlock you hidden development super powers with fox furries
 
-To start the slide show:
+A satirical talk.
 
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+Find the result on [GH Pages](https://enolive.github.io/fox-dev-furries).
