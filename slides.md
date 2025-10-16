@@ -12,6 +12,9 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
+# open graph
+seoMeta:
+  ogImage: auto
 favicon: /favicon.png
 src: ./intro.md
 ---
